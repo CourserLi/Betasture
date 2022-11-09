@@ -1,0 +1,16 @@
+C:\Users\LILANJUN\Desktop\Temporary\again\again\bin\Debug\again.exe.config
+C:\Users\LILANJUN\Desktop\Temporary\again\again\bin\Debug\again.exe
+C:\Users\LILANJUN\Desktop\Temporary\again\again\bin\Debug\again.pdb
+C:\Users\LILANJUN\Desktop\Temporary\again\again\obj\Debug\again.csproj.AssemblyReference.cache
+C:\Users\LILANJUN\Desktop\Temporary\again\again\obj\Debug\again.csproj.SuggestedBindingRedirects.cache
+C:\Users\LILANJUN\Desktop\Temporary\again\again\obj\Debug\again.FormPrincipal.resources
+C:\Users\LILANJUN\Desktop\Temporary\again\again\obj\Debug\again.Introduction.resources
+C:\Users\LILANJUN\Desktop\Temporary\again\again\obj\Debug\again.KMP.resources
+C:\Users\LILANJUN\Desktop\Temporary\again\again\obj\Debug\again.Properties.Resources.resources
+C:\Users\LILANJUN\Desktop\Temporary\again\again\obj\Debug\again.csproj.GenerateResource.cache
+C:\Users\LILANJUN\Desktop\Temporary\again\again\obj\Debug\again.csproj.CoreCompileInputs.cache
+C:\Users\LILANJUN\Desktop\Temporary\again\again\obj\Debug\again.csproj.CopyComplete
+C:\Users\LILANJUN\Desktop\Temporary\again\again\obj\Debug\again.exe
+C:\Users\LILANJUN\Desktop\Temporary\again\again\obj\Debug\again.pdb
+C:\Users\LILANJUN\Desktop\Temporary\again\again\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LILANJUN\Desktop\Temporary\again\again\obj\Debug\again.csproj.Fody.CopyLocal.cache
