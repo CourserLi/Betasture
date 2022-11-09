@@ -4,7 +4,7 @@
 
 ## APP 介绍
 
-**Betasture，全称为The Beauty of data structures，译为数据结构之美。它是一款学习类视频软件，极具美感设计的同时，软件涵盖了多种数据结构与算法的原创视频播放，并提供了 MP4 和 M3U8 两种视频播放格式，和五种不同的播放速率等功能，便于用户更好的适应与学习**
+**Betasture，全称为 The Beauty of data structures，译为数据结构之美。它是一款学习类视频软件，极具美感设计的同时，软件涵盖了多种数据结构与算法的原创视频播放，并提供了 MP4 和 M3U8 两种视频播放格式，和五种不同的播放速率等功能，便于用户更好的适应与学习**
 
 软件具备功能：
 
@@ -29,13 +29,13 @@
 
 大致分为以下三个步骤（详情点击）：
 
-- 初建框架
-- 扩展菜单与显示
-- 优化与打包
+- [初建框架](https://github.com/CourserLi/Betasture/blob/V1.0.0/%E5%88%9D%E5%BB%BA%E6%A1%86%E6%9E%B6.md)
+- [扩展菜单与显示](https://github.com/CourserLi/Betasture/blob/V1.0.0/%E6%89%A9%E5%B1%95%E8%8F%9C%E5%8D%95%E4%B8%8E%E6%98%BE%E7%A4%BA.md)
+- [优化与打包](https://github.com/CourserLi/Betasture/blob/V1.0.0/%E4%BC%98%E5%8C%96%E4%B8%8E%E6%89%93%E5%8C%85.md)
 
 #### 开发步骤二：Nginx 流媒体服务器存储视频
 
-大致分为以下三个步骤（整体介绍点击）：
+大致分为以下三个步骤（[整体介绍点击](https://github.com/CourserLi/Betasture/blob/V1.0.0/%E6%9C%8D%E5%8A%A1%E5%99%A8.md)）：
 
 - 安装 Nginx（其本身就提供了视频流传输和播放功能）
 - 配置 Nginx，使得 8081 端口提供视频文件的 HTTP 服务（1935 端口提供 RTMP 推流）
